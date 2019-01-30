@@ -1,17 +1,11 @@
-
 package prubeagithub;
 
-/**
- *
- * @author Alumno
- */
+
 public class PrubeaGithub {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+       //Esto es un cambio
     }
     
 }
